@@ -1,0 +1,1 @@
+[2018-08-15 01:21:56,572] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker Jayanta:9092 (id: 0 rack: null) (state.change.logger)
